@@ -1,0 +1,4 @@
+Bundle-Name: portlet-shufflejs
+Bundle-SymbolicName: portlet.shufflejs
+Bundle-Version: 1.0.0
+Export-Package: portlet.shufflejs.constants
