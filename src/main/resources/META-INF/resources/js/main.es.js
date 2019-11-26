@@ -1,5 +1,5 @@
-var shuffle = require('shufflejs');
+import shuffle from 'shufflejs';
 
 console.log('MAIN.JS')
 
-module.exports = shuffle
+export default shuffle

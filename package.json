@@ -2,7 +2,9 @@
 	"version": "1.0.0",
 	"name": "portlet-shufflejs",
 	"devDependencies": {
-		"liferay-npm-bundler": "^2.15.0"
+		"babel-preset-env": "1.7.0",
+		"babel-loader": "7.1.5",
+		"liferay-npm-bundler": "2.13.0"
 	},
 	"dependencies": {
 		"shufflejs": "^5.2.3"
